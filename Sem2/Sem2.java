@@ -1,12 +1,8 @@
 
-import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileReader;
 import java.io.FileWriter;
-import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.logging.Level;
 import java.util.logging.Logger;
 
 public class Sem2 {
@@ -17,7 +13,7 @@ public class Sem2 {
 
     public static void main(String[] args) {
         // task1(100);
-        writeToFile("lesson2.txt", "W:\\YandexDisk\\Организация работы над собой\\Обучение GeekBrains\\Полина\\Знакомство с базами данных");
+        writeToFile("lesson2.txt", "C:\\Users\\Polina\\Desktop\\Рабочий стол");
    
    
     }
@@ -69,7 +65,7 @@ public class Sem2 {
             result.add(name);
             if (isThrow()){
                 LOGGER.log(Level.INFO, "Error reading directory: "+folder.getAbsolutePath());
-            }
+            } 
         }
 
         return result;
@@ -80,9 +76,9 @@ public class Sem2 {
             for (String s:list){
                 fw.write(s+"\n");
                 fw.flush();
-                if (isThrow()){
+                 if (isThrow()){
                     LOGGER.log(Level.INFO, "Error writing directory: "+ s);
-                }
+                } 
             }
          }catch (Exception e){
             e.printStackTrace();

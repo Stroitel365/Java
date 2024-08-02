@@ -11,7 +11,7 @@ public class Log {
             e.printStackTrace();
         }
     }
-    public static java.util.logging.Logger getLogger(String className) {
+     public static java.util.logging.Logger getLogger(String className) {
         return Log.getLogger(className);
-    }
+    } 
 }

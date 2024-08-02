@@ -1,0 +1,39 @@
+AEC-DATA download 1.5.lnk
+Autodesk ReCap Photo.lnk
+Autodesk ReCap.lnk
+Avast Free Antivirus.lnk
+Avast Premium Security.lnk
+BricsCAD V22 (x64) ru_RU.lnk
+Discord.lnk
+Dropbox.lnk
+Firefox.lnk
+Foxit PhantomPDF.lnk
+Half-Life Alyx.url
+hidemy.name VPN.lnk
+I Expect You To Die 2.url
+Legendary Tales.url
+Lighting Technologies.lnk
+LogHouse.lnk
+Logi Options+.lnk
+Logitech G HUB.lnk
+Navisworks Freedom 2020.lnk
+Navisworks Freedom 2021.lnk
+Navisworks Manage 2020 (BIM 360).lnk
+Navisworks Manage 2021 (BIM 360).lnk
+OpenVPN GUI.lnk
+Sim City 4 Manual.pdf
+SimCity 4 Deluxe Edition.lnk
+SimLab VR Viewer.lnk
+Steam.lnk
+SteamVR.url
+Telegram.lnk
+The Elder Scrolls V Skyrim VR.url
+The Room VR A Dark Matter.url
+vpngate_211.213.148.238_udp_1195.ovpn
+WhatsApp.lnk
+Worksharing Monitor for Autodesk Revit 2019.lnk
+Worksharing Monitor for Autodesk Revit 2020.lnk
+Yandex.lnk
+Новая папка
+Приложение Autodesk для ПК.lnk
+Яндекс.Диск.lnk
